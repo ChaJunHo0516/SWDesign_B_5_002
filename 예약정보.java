@@ -1,5 +1,3 @@
-package room;
-
 public class 예약정보 {
     private String 예약id;
     private String id;

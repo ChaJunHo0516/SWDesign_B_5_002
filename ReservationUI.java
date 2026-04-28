@@ -1,5 +1,3 @@
-package room;
-
 public class ReservationUI {
 
 	public static void main(String[] args) {
