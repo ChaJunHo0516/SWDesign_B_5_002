@@ -1,4 +1,4 @@
-```Mermaid
+```mermaid
 graph LR
     %% 액터 설정
     Customer((고객))
